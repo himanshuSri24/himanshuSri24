@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **himanshu20032002@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/15b8nz6HJeLsnrwac0TFa9TqO4XDJO65y/view?usp=sharing) and [Online Resume](https://read.cv/himanshus)
-- 
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1e75Cf5I3ofsDp5hepYBgrRodmD6ugcCq/view?usp=sharing)
+  
 - ⚡ Fun fact **01101100 01101111 01101100**
 
 <h3 align="left">Connect with me:</h3>
