@@ -22,12 +22,13 @@
   
 - ⚡ Fun fact **01101100 01101111 01101100**
 
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/devwithcoffee)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshusri24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshusri24" height="30" width="40" /></a>
 <a href="https://instagram.com/himanshu._.srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu._.srivastava" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/himanshusri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanshusri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himanshusri24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshusri24" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshusri24" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="himanshusri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,3 +39,6 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusri24&" alt="himanshusri24" />
 </div>
+
+<br/>
+<br/>
