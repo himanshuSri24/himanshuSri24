@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working at [CodeMarks](https://codemarks.in)
+- 🔭 I’m currently working at [BIK](https://bik.ai)
 
 - ✨ I'm open to new opportunities
 
