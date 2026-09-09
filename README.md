@@ -1,44 +1,111 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://linkedin.com/in/himanshusri24)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devwithcoffee.com)
 
-<h1 align="center">Hi 👋, I'm Himanshu Srivastava!</h1>
-<h3 align="center">A neophiliac software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, I'm Himanshu Srivastava</h1>
 
-
-
-- 🔭 I’m currently working at [BIK](https://bik.ai)
-
-- ✨ I'm open to new opportunities
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👯 I’m looking to collaborate on **AI/ML, Full Stack Projects**
-
-- 💬 Ask me about **React, Java, AI and ML, Python**
-
-- 📫 How to reach me **himanshu20032002@gmail.com**
-
-- 📄 Know about my experiences: [My Resume](https://devwithcoffee.com/resume)
-  
-- ⚡ Fun fact **01101100 01101111 01101100**
-
-  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/devwithcoffee)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshusri24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshusri24" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshu._.srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu._.srivastava" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/himanshusri24" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="himanshusri" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://devwithcoffee.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer+%40+BIK+(YC+S20);Real-time+infrastructure+%C2%B7+WebRTC+%C2%B7+Meta+APIs;Event+pipelines+at+millions+of+events;I+build+free+dev+tools+at+devwithcoffee.com" alt="Senior Software Engineer at BIK" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br/><br/>
-<div>
-<img align="left" src="https://himanshu-stats.vercel.app/api?username=himanshusri24&show_icons=true&locale=en" alt="himanshusri24" />
+<p align="center">
+  <a href="https://devwithcoffee.com"><img src="https://img.shields.io/badge/Portfolio-devwithcoffee.com-818cf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/himanshusri24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=4l0HBrgAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://www.youtube.com/@devwithcoffee"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <img src="https://komarev.com/ghpvc/?username=himanshuSri24&style=for-the-badge&color=818cf8" alt="profile views" />
+</p>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusri24&" alt="himanshusri24" />
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I build the unglamorous infrastructure underneath products people actually use —
+real-time calling, event pipelines, and the analytics that tell a business
+whether any of it worked.
+
+- 🔭 **Senior Software Engineer** at **[BIK](https://bik.ai)** (Y Combinator S20)
+
+- 📡 Shipped **real-time WhatsApp calling** on WebRTC + Meta APIs — persistent
+  permissions, low-latency call controls, session-resilient state sync
+
+- 📊 Architected analytics pipelines capturing **millions of events**, driving
+  **15%+** tracked conversion lift and **20% faster** issue resolution
+
+- 🧪 **IEEE** and **IJCRT** published — deep learning for accessibility and markets
+
+- 🛠️ I build **free developer tools** and give them away — no signup, no ads,
+  nothing leaves your browser
+
+- 🌱 Currently going deeper on **distributed systems, Kubernetes and GCP**
+
+- 💬 Ask me about **real-time systems, WhatsApp Cloud API, event pipelines,
+  Postgres at scale**
+
+- 📫 Reach me at **himanshu20032002@gmail.com** · 📄 [Resume](https://devwithcoffee.com/resume)
+
+- ⚡ Fun fact: **01101100 01101111 01101100**
+
+<br clear="right"/>
+
+## 🧰 Free tools I build and maintain
+
+Browser-only. No signup, no ads, and no request carrying your data anywhere.
+
+| Tool | What it does |
+|---|---|
+| **[WhatsApp Webhook Inspector](https://devwithcoffee.com/tools/whatsapp-webhook-payload-inspector)** | Flattens Meta's four-level Cloud API payload and explains the error codes — including 131047 and the 24-hour window |
+| **[Cron Expression Explainer](https://devwithcoffee.com/tools/cron-expression-explainer)** | Plain English + next 10 fire times, your timezone or UTC. Handles the day-of-month/day-of-week OR rule everyone misreads |
+| **[JWT Decoder](https://devwithcoffee.com/tools/jwt-decoder)** | Offline decode, every claim explained. Deliberately no signing-secret box |
+| **[In-Hand Salary Calculator](https://devwithcoffee.com/tools/in-hand-salary-calculator-india)** | India FY 2026-27, new vs old regime side by side, EPF and gratuity included |
+| **[Freelance Rate Calculator](https://devwithcoffee.com/tools/freelance-rate-calculator-india)** | Works backwards from target take-home. Handles 44ADA and the GST threshold |
+
+## 🚢 Shipped
+
+- **[Spam Shield](https://play.google.com/store/apps/details?id=com.devwithcoffee.spamshield)** — privacy-first Android call blocker on the Play Store. Kotlin `CallScreeningService`, sub-100ms interception, fully offline, zero data collection
+- **[Tidybox](https://tidybox.devwithcoffee.com)** — AI email triage for Gmail. Classifies the whole inbox, labels it, archives the noise, writes a daily briefing
+- **Second Brain for YouTube** — Chrome extension for transcript extraction and semantic summarisation at zero API cost. Featured on Product Hunt
+
+## 📄 Published research
+
+- **[Detection of Indian Regional Sign Language Through CNN](https://ieeexplore.ieee.org/document/10426231)** — IEEE, GCITC 2023, pp. 1–7 · *cited 5 times*
+- **[StockSage: Stock Price Analysis and Prediction Using Deep Learning](https://www.ijcrt.org/papers/IJCRTAB02045.pdf)** — IJCRT, Vol. 12, Issue 5, pp. 323–330
+
+## ⚙️ Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="42" height="42"/>
+  <img src="https://cdn.simpleicons.org/webrtc/818CF8" alt="WebRTC" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
+</p>
+
+## 📈 Stats
+
+<div align="center">
+  <img height="165" src="https://himanshu-stats.vercel.app/api?username=himanshuSri24&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=himanshuSri24&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
 </div>
 
-<br/>
-<br/>
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshusri24"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="42" /></a>
+  <a href="https://www.youtube.com/@devwithcoffee"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="32" width="42" /></a>
+  <a href="https://instagram.com/himanshu._.srivastava"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="42" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/devwithcoffee"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="46" /></a>
+</p>
+
+<p align="center"><i>Full profile → <a href="https://devwithcoffee.com/about">devwithcoffee.com/about</a></i></p>
