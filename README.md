@@ -92,7 +92,6 @@ Browser-only. No signup, no ads, and no request carrying your data anywhere.
 ## 📈 Stats
 
 <div align="center">
-  <img height="165" src="https://himanshu-stats.vercel.app/api?username=himanshuSri24&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=himanshuSri24&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
 </div>
 
